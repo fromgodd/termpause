@@ -2,6 +2,8 @@
 Rust Crate that allows to do interruptions in console. Will be implemented to functional terminal customization kit.
 
 
+![termpause](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 ## Usage
 Add this in your `Cargo.toml`:
 
